@@ -1,0 +1,45 @@
+/* ###############################             GENERAL                        ############################*/
+
+body{
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background: url("Res/Image/cargo_ship.jpg");
+    background-size: cover;
+    overflow:hidden;
+}
+
+#cargo-container-area{
+    min-width: 100%;
+    min-height: 93%;
+    display: block;
+    background-color: #ffffff;
+
+}
+
+.cargo_link{
+    text-decoration: none;
+    display: block;
+    position: fixed;
+    width: 25%;
+    height: 15%;
+}
+
+footer{
+    min-width: 100%;
+    min-height: 7%;
+    display: block;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+
+
+}
+
+.cargo_container{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}

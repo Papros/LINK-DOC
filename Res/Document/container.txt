@@ -1,0 +1,2 @@
+[{"id":1,"left":100,"top":500,"color":"#ffffff","title":"DRIVE","href":"https://google.pl","blank":false},
+{"id":2,"left":100,"top":300,"color":"#ddee00","title":"YT","href":"https://youtube.pl","blank":false}]
